@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>tu360.jpg</file>
+        <file>tubiao.png</file>
+        <file>tuding.png</file>
+        <file>tuding 1.png</file>
+        <file>hongqi.png</file>
+        <file>select.png</file>
+        <file>zm.png</file>
+    </qresource>
+</RCC>
